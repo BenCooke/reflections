@@ -8,3 +8,12 @@ How is the staging area different from the working directory and the
 repository? What value do you think it offers?
 
 It is a middle between the two so you can make sure you want to commit before you do.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add as many files as you need to the staging area to make sure that you have only one commit per logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When I am redesigning the code to try to speed it up. A Branch would help
+by keeping a master version and also having a seperate version
